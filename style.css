@@ -1,0 +1,12 @@
+.flexcontainer{
+    display: flex;
+}
+#img2{
+    margin-top: 350px;
+    margin-left: 10px;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(254, 169, 183);
+
+}
